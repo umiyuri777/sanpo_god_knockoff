@@ -1,5 +1,5 @@
 import { ChakraProvider, defaultSystem } from '@chakra-ui/react'
-import styles from '../styles/App.css'
+import '../styles/App.css'
 import Title from './Title'
 import Roulette from './Roulette'
 
